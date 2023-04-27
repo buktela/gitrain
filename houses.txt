@@ -1,0 +1,3 @@
+The houses we have in our booking platform are as fellows:
+1. Travel house
+2. vacantion apartment
